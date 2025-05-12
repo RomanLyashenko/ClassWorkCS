@@ -1,0 +1,11 @@
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\bin\Debug\12.05.2025.exe.config
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\bin\Debug\12.05.2025.exe
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\bin\Debug\12.05.2025.pdb
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.csproj.AssemblyReference.cache
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.csproj.SuggestedBindingRedirects.cache
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\_12._05._2025.Form1.resources
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\_12._05._2025.Properties.Resources.resources
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.exe
+C:\Users\Взрослая академия\Documents\srstafion\12.05.2025\obj\Debug\12.05.2025.pdb
