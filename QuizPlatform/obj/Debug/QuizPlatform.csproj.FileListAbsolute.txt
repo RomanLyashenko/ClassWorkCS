@@ -1,0 +1,11 @@
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.csproj.AssemblyReference.cache
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.csproj.SuggestedBindingRedirects.cache
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.Form1.resources
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.Properties.Resources.resources
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\bin\Debug\QuizPlatform.exe.config
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\bin\Debug\QuizPlatform.exe
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\bin\Debug\QuizPlatform.pdb
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.exe
+C:\Users\Взрослая академия\Documents\srstafion\QuizPlatform\obj\Debug\QuizPlatform.pdb
