@@ -1,0 +1,11 @@
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\bin\Debug\qwerty.exe.config
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\bin\Debug\qwerty.exe
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\bin\Debug\qwerty.pdb
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.csproj.AssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.Form1.resources
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.exe
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.pdb
+C:\Users\Взрослая академия\source\repos\qwerty\qwerty\obj\Debug\qwerty.Form2.resources
